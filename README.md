@@ -1,4 +1,4 @@
-Boilerplate Sails Hook
+Sails Hook Boilerplate 
 ================
 
 > WARNING: work in progress

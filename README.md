@@ -1,4 +1,5 @@
-sails-hook-views
+Boilerplate Sails Hook
 ================
 
-Views support in Sails.js
+> WARNING: work in progress
+> api for custom hooks is still experimental
